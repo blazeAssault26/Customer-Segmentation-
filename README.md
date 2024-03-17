@@ -7,8 +7,6 @@
 - [Summary and Recommendations](#summary-and-recommendations)
 
 ## Introduction:
-<img width="405" alt="before" src="https://github.com/blazeAssault26/Customer-Segmentation-/assets/129224378/19a6082f-f5bb-4127-a69a-c3aedf54ab82">
-
 You operate a supermarket mall and collect basic customer data via membership cards. This data comprises Customer ID, age, gender, annual income, and spending score, which is derived from customer behavior and purchase patterns.
 
 ## Problem Statement:
@@ -18,8 +16,6 @@ As the owner of the mall, you aim to understand the customers, particularly thos
 An analysis was conducted using clustering algorithms including DBSCAN, K-Means, and Hierarchical Clustering. The comparative analysis revealed the inadequacy of DBSCAN in forming meaningful clusters due to its reliance on the density of points. K-Means and Hierarchical Clustering, on the other hand, successfully formed meaningful clusters, facilitating insightful customer segmentation analysis.
 
 ## Summary and Recommendations:
-<img width="557" alt="after" src="https://github.com/blazeAssault26/Customer-Segmentation-/assets/129224378/f4f59c88-fcd1-42ce-a72f-2ce1788c124a">
-
 After employing the clustering algorithms to analyze customer data, distinct segments with unique characteristics were identified, leading to tailored strategies:
 
 ### Approachable Customers:
